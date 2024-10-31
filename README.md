@@ -6,7 +6,7 @@
 
 ### 🤝 À propos de moi :
 
-- 🔭 Je travaille en tant qu'**Administrateur Systèmes & Réseaux**.
+- 🔭 Je travaille en tant qu'**Manager en Infrastructure & Cybersécurité des SI en alternance**.
 - 🌱 J'approfondis actuellement mes connaissances en **Management, Cybersécurité et Infra Systèmes & Réseaux**.
 - 📫 Me joindre : **fauvel.math76pro@gmail.com**
 
