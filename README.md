@@ -1,5 +1,5 @@
 <h1 align="center">Salut ✌, je suis Mathéo Fauvel</h1>
-<h3 align="center">Administrateur Systèmes & Réseaux</h3>
+<h3 align="center">Manager en Infrastructure & Cybersécurité des SI en alternance</h3>
 <h4 align="center"> 🇫🇷  Localisation : Rouen, France</h4>
 
 ---
