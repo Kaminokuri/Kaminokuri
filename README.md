@@ -12,8 +12,9 @@
 
 ### 🤝 Mes passions :
 
-- 🌌 Passionné par l'espace et l'univers qui nous entourent, je suis fasciné par la beauté infinie de notre cosmos.
-- 🎮 Passionné par l'Esport, je suis avec enthousiasme plusieurs scènes compétitives.
+- 🏀 Sport – Amateur de basket, running, musculation, et de sport en général
+- 📜 Généalogie – Exploration de l’histoire familiale
+- 🎥 Cinéma et Photographie – Capturer des moments et apprécier la narration visuelle
 - 👨🏻‍💻 Passionné par les nouvelles technologies, j'adore apprendre tous types de développement, que ce soit au niveau des systèmes ou des applications.
 
 ### 🛠️ Technologies et Outils :
