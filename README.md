@@ -7,7 +7,7 @@
 ### 🤝 À propos de moi :
 
 - 🔭 Je travaille en tant qu'**Manager en Infrastructure & Cybersécurité des SI en alternance**.
-- 🌱 J'approfondis actuellement mes connaissances en **Management, Cybersécurité et Infra Systèmes & Réseaux**.
+- 🎓 Préparation d'un Mastère Professionnel en Management des Infrastructures et Cybersécurité des SI au CESI Rouen.
 - 📫 Me joindre : **fauvel.math76pro@gmail.com**
 
 ### 🤝 Mes passions :
