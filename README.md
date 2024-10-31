@@ -15,7 +15,7 @@
 - 🏀 Sport – Amateur de basket, running, musculation, et de sport en général
 - 📜 Généalogie – Exploration de l’histoire familiale
 - 🎥 Cinéma et Photographie – Capturer des moments et apprécier la narration visuelle
-- 👨🏻‍💻 Passionné par les nouvelles technologies, j'adore apprendre tous types de développement, que ce soit au niveau des systèmes ou des applications.
+- 💻 Technologie – Intérêt pour les dernières innovations en informatique, téléphonie, infrastructures systèmes et réseaux
 
 ### 🛠️ Technologies et Outils :
 
