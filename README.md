@@ -6,7 +6,7 @@
 
 ### 🤝 À propos de moi :
 
-- 🔭 Je travaille en tant qu'**Manager en Infrastructure & Cybersécurité des SI en alternance**.
+- 🔭 Je travaille en tant qu'**Assistant Chef de Projet en alternance**.
 - 🎓 Préparation d'un Mastère Professionnel en Management des Infrastructures et Cybersécurité des SI au CESI Rouen.
 - 📫 Me joindre : **fauvel.math76pro@gmail.com**
 
