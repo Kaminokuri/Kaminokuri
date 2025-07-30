@@ -8,7 +8,7 @@
 
 ---
 
-## 🤝 À propos de moi
+## 🎯 À propos de moi
 
 🔹 **Rôle actuel** : Assistant Chef de Projet en alternance  
 🔹 **Formation** : Mastère Professionnel en Management des Infrastructures et Cybersécurité des SI - CESI Rouen  
