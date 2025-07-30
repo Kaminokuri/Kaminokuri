@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 À propos de moi
+## 🤝 À propos de moi
 
 🔹 **Rôle actuel** : Assistant Chef de Projet en alternance  
 🔹 **Formation** : Mastère Professionnel en Management des Infrastructures et Cybersécurité des SI - CESI Rouen  
@@ -22,7 +22,7 @@ En tant qu'Assistant Chef de Projet, j'apprends à coordonner les équipes, gér
 
 ---
 
-### 🛠️ **Technologies maîtrisées**
+### 🛠️ **Technologies et Outils**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
