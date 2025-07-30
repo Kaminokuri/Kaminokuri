@@ -14,23 +14,7 @@
 🔹 **Formation** : Mastère Professionnel en Management des Infrastructures et Cybersécurité des SI - CESI Rouen  
 🔹 **Objectif** : Devenir expert en sécurité des systèmes d'information et gestion de projets IT  
 
-### 💡 Ma philosophie
-> Allier passion technologique et rigueur managériale pour créer des infrastructures sécurisées et performantes.
-
 ---
-
-## 🚀 Mes domaines d'expertise
-
-### 💼 **Management & Projets**
-- Gestion de projets informatiques
-- Coordination d'équipes techniques
-- Suivi des infrastructures systèmes et réseaux
-
-### 🔒 **Cybersécurité & Infrastructures**
-- Sécurisation des systèmes d'information
-- Administration Windows Server & Linux
-- Virtualisation avec VMware
-- Scripting PowerShell
 
 ### 🛠️ **Technologies maîtrisées**
 
