@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bonjour, je suis Mathéo Fauvel</h1>
+<h1 align="center">Salut ✌, je suis Mathéo Fauvel</h1>
 <h3 align="center">Assistant Chef de Projet en alternance | Futur Expert en Cybersécurité</h3>
 <h4 align="center">📍 Rouen, France 🇫🇷</h4>
 
