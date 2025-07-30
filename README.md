@@ -28,7 +28,6 @@
     <img src="https://img.shields.io/badge/Powershell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell" />
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry PI" /></p>
 
 ---
 
