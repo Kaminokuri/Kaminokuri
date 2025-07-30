@@ -108,7 +108,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=matheofauvel&color=blueviolet&style=flat-square&label=Visiteurs" alt="Profile views" />
 </p>
-
-<p align="center">
-  <em>"La technologie au service de la sécurité, la passion au cœur de l'innovation"</em>
-</p>
