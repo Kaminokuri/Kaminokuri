@@ -72,11 +72,11 @@ En tant qu'Assistant Chef de Projet, j'apprends à coordonner les équipes, gér
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheofauvel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaminokuri&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheofauvel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaminokuri&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
