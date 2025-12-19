@@ -17,7 +17,7 @@
 
 ---
 
-### 🌟 Mon profil
+## 🌟 Mon profil
 Actuellement en alternance, je combine apprentissage théorique et expérience pratique pour acquérir une vision complète des enjeux IT. Mon attrait pour la technologie me pousse à explorer constamment les dernières innovations, que ce soit en cybersécurité, infrastructures ou outils de gestion de projet.
 
 En tant qu'Assistant Chef de Projet, j'apprends à coordonner les équipes, gérer les délais et assurer la qualité des livrables. Cette expérience terrain me permet de comprendre les défis concrets des entreprises en matière de sécurité informatique.
