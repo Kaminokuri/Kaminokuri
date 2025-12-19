@@ -90,7 +90,7 @@ En tant qu'Assistant Chef de Projet, j'apprends à coordonner les équipes, gér
   <a href="https://www.linkedin.com/in/matheofauvel/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="">
+  <a href="portfolio.matheo-fauvel.fr">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
