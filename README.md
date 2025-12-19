@@ -22,7 +22,7 @@ En tant qu'Assistant Chef de Projet, j'apprends à coordonner les équipes, gér
 
 ---
 
-### 🛠️ **Technologies et Outils**
+## 🛠️ **Technologies et Outils**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
