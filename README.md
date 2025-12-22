@@ -29,7 +29,7 @@ En tant qu'Assistant Chef de Projet, j'apprends à coordonner les équipes, gér
 <p align="center">
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/ROCKY%20LINUX%2010-10B981?style=for-the-badge&logo=linux&logoColor=white" alt="Rocky Linux 10" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
 </p>
 
