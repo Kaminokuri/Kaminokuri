@@ -12,7 +12,8 @@
 
 🔹 **Poste actuel** : Assistant Chef de Projet en alternance  
 🔹 **Formation** : Mastère Professionnel en Management des Infrastructures et Cybersécurité des SI - CESI Rouen  
-🔹 **Parcours** : Diplomé d'un Bac +2 Technicien Systèmes et Réseaux et d'un Bac +3 Administrateur Systèmes et Réseaux
+🔹 **Parcours** : Diplomé d'un Bac +2 Technicien Systèmes et Réseaux et d'un Bac +3 Administrateur Systèmes et Réseaux  
+
 🔹 **Objectif** : Développer mes compétences en techniques et gestion de projets IT  
 
 ---
